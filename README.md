@@ -4,8 +4,6 @@
 
 ### Software Engineer · Backend · Full Stack · AI & Generative AI
 
-Toronto, Canada
-
 </div>
 
 ---
@@ -28,8 +26,6 @@ Currently focused on software engineering roles involving:
 
 * **M.S. in Information Systems — Northeastern University**
   GPA: **3.9/4.0** · Graduated December 2025
-
-* **B.Tech in Computer Science**
 
 ## Technical Skills
 
