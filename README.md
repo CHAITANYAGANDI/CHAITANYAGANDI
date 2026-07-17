@@ -79,21 +79,6 @@ Currently focused on software engineering roles involving:
 
 `CI/CD Fundamentals` · `API Gateway` · `WebSockets` · `Asynchronous Processing` · `Rate Limiting`
 
-## Current Project
-
-### NorthLedger
-
-Personal finance application built with **Java, Spring Boot, Spring Security, JWT, PostgreSQL, React, and TypeScript**.
-
-Current development includes:
-
-* Frontend and backend integration
-* Budget and recurring-expense features
-* Automated testing
-* Docker configuration
-* Swagger/OpenAPI documentation
-* Production-ready project documentation
-
 ## Featured Projects
 
 ### TrendyTreasures
