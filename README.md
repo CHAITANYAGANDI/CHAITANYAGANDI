@@ -79,7 +79,7 @@ Currently focused on software engineering roles involving:
 
 `CI/CD Fundamentals` · `API Gateway` · `WebSockets` · `Asynchronous Processing` · `Rate Limiting`
 
-## Featured Projects
+## Featured Project
 
 ### TrendyTreasures
 
