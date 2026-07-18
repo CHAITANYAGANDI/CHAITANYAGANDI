@@ -1,6 +1,6 @@
 <div align="center">
 
-# Chaitanya Sai Gandi
+# Hi I'm Chaitanya Sai Gandi
 
 ### Software Engineer · Backend · Full Stack · AI & Generative AI
 
@@ -84,14 +84,6 @@ Currently focused on software engineering roles involving:
 ### TrendyTreasures
 
 E-commerce microservices platform built with **Node.js, Flask, and React**. Includes a custom **Auth Shield** authentication service and Jest/Supertest tests.
-
-### Mediaverse
-
-Angular 18 and TypeScript application featuring **server-side rendering, OnPush change detection, RxJS, and route guards**.
-
-### Toronto Bicycle Thefts
-
-Team data pipeline project built with **Python, Apache Kafka, and AWS**. Responsible for cloud infrastructure and ETL workflows.
 
 ## Upcoming Project
 
