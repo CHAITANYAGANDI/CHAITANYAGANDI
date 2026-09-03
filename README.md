@@ -87,7 +87,7 @@ E-commerce microservices platform built with **Node.js, Flask, and React**. Incl
 
 ## Upcoming Project
 
-### MeetBrief AI
+### Reverie
 
 AI meeting intelligence platform designed to process meeting audio, video, notes, and documents into:
 
