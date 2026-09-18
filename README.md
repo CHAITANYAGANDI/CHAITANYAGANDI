@@ -7,7 +7,6 @@
 </div>
 
 
-
 ## A Little About Me
 
  Around **2 years of professional software engineering experience at Infosys**, working on enterprise data-processing and automation systems.
@@ -33,11 +32,6 @@ An AI-powered meeting intelligence platform designed for recording, transcriptio
 
 
 
-
-[🌐 Live Application](https://reverieai.in) [💻 Source Code](https://github.com/CHAITANYAGANDI/Reverie)
-
-
-
 ### TrendyTreasures
 
 A full-stack e-commerce platform built around independently managed services for authentication, commerce workflows, administration, and the customer experience.
@@ -45,10 +39,6 @@ A full-stack e-commerce platform built around independently managed services for
 **Built with:**
 
 `React` · `Node.js` · `Flask` · `REST APIs` · `Jest` · `Supertest`
-
-
-[🌐 Customer App](https://ecommerce-test-qvvv.vercel.app/home) [🛠️ Admin](https://ecommerce-test-qvvv.vercel.app/admin/dashboard) [🔐 Auth Shield](https://ecommerce-test-lemon-xi.vercel.app/) [💻 Source Code](https://github.com/CHAITANYAGANDI/Trendy_Treasures)
-
 
 
 ## What I'm Exploring Right Now
