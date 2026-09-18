@@ -6,7 +6,7 @@
 
 </div>
 
-## A Little About Me
+## 👨‍💻 A Little About Me
 
  Around **2 years of professional software engineering experience at Infosys**, working on enterprise data-processing and automation systems.
 
@@ -17,7 +17,7 @@ Currently exploring the intersection of **Software Engineering + Generative AI**
 I enjoy working on the engineering behind AI products — APIs, authentication, messaging, databases, WebSockets, vector search, background processing, cloud storage, monitoring, and deployment.
 
 
-## What I Built
+## 🛠️ What I Built
 
 ### Reverie AI
 
@@ -38,12 +38,12 @@ A full-stack e-commerce platform built around independently managed services for
 `React` · `Node.js` · `Flask` · `REST APIs` · `Jest` · `Supertest`
 
 
-## What I'm Exploring Right Now
+## 🧠 What I'm Exploring Right Now
 
-**LLMs, RAG, AI agents, MCP, and distributed AI systems**
+LLMs, RAG, AI agents, MCP, and distributed AI systems
 
 
-## Let's Connect
+## 🤝 Let's Connect
 
 If you're building something interesting, hiring engineers, or simply want to talk about software and AI, feel free to reach out.
 
