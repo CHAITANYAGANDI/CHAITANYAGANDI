@@ -6,7 +6,6 @@
 
 </div>
 
-
 ## A Little About Me
 
  Around **2 years of professional software engineering experience at Infosys**, working on enterprise data-processing and automation systems.
@@ -16,7 +15,6 @@ Completed my **M.S. in Information Systems at Northeastern University, Toronto**
 Currently exploring the intersection of **Software Engineering + Generative AI**, especially RAG systems, AI agents, semantic search, asynchronous AI workflows, and production AI applications.
 
 I enjoy working on the engineering behind AI products — APIs, authentication, messaging, databases, WebSockets, vector search, background processing, cloud storage, monitoring, and deployment.
-
 
 
 ## What I Built
@@ -31,7 +29,6 @@ An AI-powered meeting intelligence platform designed for recording, transcriptio
 `Spring Boot` · `FastAPI` · `Next.js` · `TypeScript` · `PostgreSQL` · `pgvector` · `Kafka` · `WebSockets` · `Docker` · `Cloudflare R2`
 
 
-
 ### TrendyTreasures
 
 A full-stack e-commerce platform built around independently managed services for authentication, commerce workflows, administration, and the customer experience.
@@ -43,24 +40,7 @@ A full-stack e-commerce platform built around independently managed services for
 
 ## What I'm Exploring Right Now
 
-My current learning and experimentation is focused on:
-
-- LLM-powered applications 
-
-- Retrieval-Augmented Generation (RAG)
-
-- AI Agents and multi-step workflows
-
-- Model Context Protocol (MCP)
-
-- LangChain and LangGraph
-
-- Embeddings and vector databases
-
-- Event-driven and asynchronous architectures
-
-- Cloud-native application design
-
+**LLMs, RAG, AI agents, MCP, and distributed AI systems**
 
 
 ## Let's Connect
