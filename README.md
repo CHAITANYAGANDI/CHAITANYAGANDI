@@ -81,10 +81,3 @@ If you're building something interesting, hiring engineers, or simply want to ta
 
 💼 [LinkedIn](https://www.linkedin.com/in/chaitanyagandi/)
 
----
-
-<div align="center">
-
-### Building software. Exploring AI. Learning continuously.
-
-</div>
