@@ -6,7 +6,7 @@
 
 </div>
 
----
+
 
 ## A Little About Me
 
@@ -18,7 +18,7 @@ Currently exploring the intersection of **Software Engineering + Generative AI**
 
 I enjoy working on the engineering behind AI products — APIs, authentication, messaging, databases, WebSockets, vector search, background processing, cloud storage, monitoring, and deployment.
 
----
+
 
 ## What I Built
 
@@ -36,7 +36,7 @@ An AI-powered meeting intelligence platform designed for recording, transcriptio
 
 [🌐 Live Application](https://reverieai.in) [💻 Source Code](https://github.com/CHAITANYAGANDI/Reverie)
 
----
+
 
 ### TrendyTreasures
 
@@ -49,7 +49,7 @@ A full-stack e-commerce platform built around independently managed services for
 
 [🌐 Customer App](https://ecommerce-test-qvvv.vercel.app/home) [🛠️ Admin](https://ecommerce-test-qvvv.vercel.app/admin/dashboard) [🔐 Auth Shield](https://ecommerce-test-lemon-xi.vercel.app/) [💻 Source Code](https://github.com/CHAITANYAGANDI/Trendy_Treasures)
 
----
+
 
 ## What I'm Exploring Right Now
 
@@ -71,7 +71,7 @@ My current learning and experimentation is focused on:
 
 - Cloud-native application design
 
----
+
 
 ## Let's Connect
 
