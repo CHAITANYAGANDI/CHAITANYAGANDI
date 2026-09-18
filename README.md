@@ -1,99 +1,90 @@
 <div align="center">
 
-# Hi I'm Chaitanya Sai Gandi
+# Hey, I'm Chaitanya 👋
 
-### Software Engineer · Backend · Full Stack · AI & Generative AI
+### Software Engineer
 
 </div>
 
 ---
 
-## About Me
+## A Little About Me
 
-Software engineer with approximately two years of experience as a **Systems Engineer at Infosys**, working on Python Flask APIs, Apache NiFi ETL pipelines, data-processing workflows, and Kubernetes-deployed services.
+ Around **2 years of professional software engineering experience at Infosys**, working on enterprise data-processing and automation systems.
 
-Currently focused on software engineering roles involving:
+Completed my **M.S. in Information Systems at Northeastern University, Toronto**, graduating with a **3.9/4.0 GPA**.
 
-* Backend and full-stack development
-* Microservices and cloud-native applications
-* AI and Generative AI integration
-* Scalable and secure application development
+Currently exploring the intersection of **Software Engineering + Generative AI**, especially RAG systems, AI agents, semantic search, asynchronous AI workflows, and production AI applications.
 
-## Experience & Education
+I enjoy working on the engineering behind AI products — APIs, authentication, messaging, databases, WebSockets, vector search, background processing, cloud storage, monitoring, and deployment.
 
-* **Systems Engineer — Infosys, Chennai**
-  Worked with Flask APIs, Apache NiFi pipelines, ETL workflows, and Kubernetes-deployed services.
+---
 
-* **M.S. in Information Systems — Northeastern University**
-  GPA: **3.9/4.0** · Graduated December 2025
+## What I Built
 
-## Technical Skills
+### Reverie AI
 
-### Languages
+An AI-powered meeting intelligence platform designed for recording, transcription, speaker-aware summaries, semantic search, and contextual AI conversations.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript" alt="Java, Python, JavaScript and TypeScript">
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-</p>
 
-### Backend & APIs
+**Built with:**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,flask,fastapi" alt="Spring Boot, Node.js, Express.js, Flask and FastAPI">
-</p>
+`Spring Boot` · `FastAPI` · `Next.js` · `TypeScript` · `PostgreSQL` · `pgvector` · `Kafka` · `WebSockets` · `Docker` · `Cloudflare R2`
 
-`Spring Boot` · `Spring Security` · `REST APIs` · `Microservices` · `JPA` · `JWT Authentication`
 
-### Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,redux,html,css,tailwind" alt="React, Next.js, Angular, Redux, HTML, CSS and Tailwind CSS">
-</p>
 
-### AI & Generative AI
+[🌐 Live Application](https://reverieai.in) [💻 Source Code](https://github.com/CHAITANYAGANDI/Reverie)
 
-<p>
-  <img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI">
-  <img src="https://img.shields.io/badge/LLM_APIs-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="LLM APIs">
-  <img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge" alt="RAG">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
-  <img src="https://img.shields.io/badge/LangGraph-334155?style=for-the-badge" alt="LangGraph">
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
-</p>
-
-`Prompt Engineering` · `Embeddings` · `Vector Databases` · `AI Agents` · `MCP`
-
-### Databases, Messaging & Data Processing
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,redis,kafka" alt="PostgreSQL, MySQL, MongoDB, Supabase, Redis and Kafka">
-</p>
-
-`Apache NiFi` · `Pandas` · `NumPy` · `ETL Pipelines`
-
-### Cloud & DevOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github" alt="AWS, Docker, Kubernetes, Git and GitHub">
-</p>
-
-`CI/CD Fundamentals` · `API Gateway` · `WebSockets` · `Asynchronous Processing` · `Rate Limiting`
-
-## Featured Project
+---
 
 ### TrendyTreasures
 
-E-commerce microservices platform built with **Node.js, Flask, and React**. Includes a custom **Auth Shield** authentication service and Jest/Supertest tests.
+A full-stack e-commerce platform built around independently managed services for authentication, commerce workflows, administration, and the customer experience.
 
-## Upcoming Project
+**Built with:**
 
-### Reverie
+`React` · `Node.js` · `Flask` · `REST APIs` · `Jest` · `Supertest`
 
-AI meeting intelligence platform designed to process meeting audio, video, notes, and documents into:
 
-* Transcriptions and structured summaries
-* Decisions, highlights, and action items
-* Document-grounded search with citations
-* Productivity-tool integrations
+[🌐 Customer App](https://ecommerce-test-qvvv.vercel.app/home) [🛠️ Admin](https://ecommerce-test-qvvv.vercel.app/admin/dashboard) [🔐 Auth Shield](https://ecommerce-test-lemon-xi.vercel.app/) [💻 Source Code](https://github.com/CHAITANYAGANDI/Trendy_Treasures)
 
-**Planned stack:** Next.js, Spring Boot, FastAPI, PostgreSQL, Apache Kafka, Docker, AWS, LangChain, LangGraph, and Generative AI.
+---
+
+## What I'm Exploring Right Now
+
+My current learning and experimentation is focused on:
+
+- LLM-powered applications 
+
+- Retrieval-Augmented Generation (RAG)
+
+- AI Agents and multi-step workflows
+
+- Model Context Protocol (MCP)
+
+- LangChain and LangGraph
+
+- Embeddings and vector databases
+
+- Event-driven and asynchronous architectures
+
+- Cloud-native application design
+
+---
+
+## Let's Connect
+
+If you're building something interesting, hiring engineers, or simply want to talk about software and AI, feel free to reach out.
+
+📧 [Email Me](mailto:chaitanyagandi2000@gmail.com)  
+
+💼 [LinkedIn](https://www.linkedin.com/in/chaitanyagandi/)
+
+---
+
+<div align="center">
+
+### Building software. Exploring AI. Learning continuously.
+
+</div>
